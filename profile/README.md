@@ -1,5 +1,3 @@
-# Devi AI
-
 ## About Us
 Devi AI is focused on developing text-to-action AI agents. Our primary aim is to automate marketing, sales, and finance tasks for small businesses using AI. Through our open-source repository, we'll be releasing projects that contribute to this goal, making advanced AI capabilities accessible to smaller organizations.
 
